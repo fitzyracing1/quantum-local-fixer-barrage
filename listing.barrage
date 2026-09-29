@@ -1,0 +1,38 @@
+# quantum-local-fixer
+
+> Local fixer shelf with a quantum-themed name. Sister idea to control-.
+
+## Purpose
+Give a plain-language door to fitzyracing1/quantum-local-fixer.
+
+## How it works (plain English)
+1. Keep the original repo as the place for fixer files.
+2. Use this clone to explain the idea.
+3. Send the reader back to the source.
+
+## Key ideas
+- Local fixer
+- Quantum-themed name
+- HTML snapshot
+
+## The actual code
+```
+# source: fitzyracing1/quantum-local-fixer
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to the local fixer repo”
+
+## Decisions the program makes
+- If a reader wants the TS scanner → control-
+- If a reader wants this shelf → stay on the source
+
+## What a person would notice
+A named wrap on a local-fixer door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source.
